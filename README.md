@@ -12,7 +12,7 @@ Welcome to the **Hospital Management System** repository, a comprehensive soluti
 
 ## 📄 Documentation
 
-For a detailed guide on how to set up, configure, and use this system, please refer to the [Docs folder](./docs).
+For a detailed guide on how to set up, configure, and use this system, please refer to the [Docs folder](./Docs).
 
 ## 🛠️ Technologies Used
 
